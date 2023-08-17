@@ -1,0 +1,62 @@
+h1{
+    color: red;
+}
+
+h1{
+    text-align: center;
+    text-transform: capitalize;
+}
+
+a{
+    text-decoration: none;
+    font-size: 30px;
+    color: green;
+}
+
+nav.footer a{
+    text-decoration: none;
+    font-size: 30px;
+    color: green;
+
+}
+
+section.content {
+    background-color: lightgrey;
+}
+
+section.content h3 {
+    text-align: center;
+    font-size: 24px;
+    color: yellow;
+}
+
+section.content p {
+    background-color: black
+    color white;
+}
+
+section.blog{
+    background-color: lightblue;
+}
+
+
+.news__heading{
+    text-align: center;
+    font-size: 34px;
+    text-transform: capitalize;
+}
+
+
+
+.news__photo{
+
+}
+
+.news__content{
+    text-decoration: underline;
+    background-color: salmon;
+}
+
+.button-success {
+    background-color: green;
+}
